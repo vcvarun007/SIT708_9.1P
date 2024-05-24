@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lost &amp; Found Map App</string>
+    <string name="api_key_places">APIKEYHERE</string>
+    <string name="map_key" translatable="false">APIKEYHERE</string>
+</resources>
